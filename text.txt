@@ -1,0 +1,7 @@
+day 3
+*function lanjutan
+-function sederhana 
+-function with parameter
+-jangan lupa static dan dinamis nya code di function
+-function didalamny ada kondisi if,else if,if else. ternary
+-function expresson , function arrows
