@@ -5,3 +5,7 @@ day 3
 -jangan lupa static dan dinamis nya code di function
 -function didalamny ada kondisi if,else if,if else. ternary
 -function expresson , function arrows
+
+
+day 5
+dom (document object models)
